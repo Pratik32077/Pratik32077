@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Metaverse virtual world**
 
-- 👨‍💻 All of my projects are available at [https://pratiktiwari28.netlify.app/](https://pratiktiwari28.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://pratiktech.in/)
 
 - 💬 Ask me about **Android , MEARN**
 
